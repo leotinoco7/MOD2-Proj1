@@ -26,4 +26,4 @@ Esse projeto foi desenvolvido por:
 
 ## 📄 LICENÇA:
 
-Este projeto está sob a licença GNU General Public License v3.0 - veja o arquivo [LICENSE.md](https://github.com/leotinoco7/mod1-prof_final/blob/main/LICENSE) para detalhes.
+Este projeto está sob a licença GNU General Public License v3.0 - veja o arquivo [LICENSE.md](https://github.com/leotinoco7/MOD2-Proj1/blob/main/LICENSE) para detalhes.
