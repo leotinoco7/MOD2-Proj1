@@ -9,8 +9,6 @@ Este é o primeiro projeto desenvolvido no segundo módulo do curso de JavaScrip
 O objetivo é utilizar HTML, CSS e JavaScript para criar um jogo que altere o status de um personagem por um botão e mostrar na tela
 Nesse projeto. usei como referência o personagem Xerath do jogo League of Legends e você poderá usar o botão encontrado mais abaixo para
 carregar sua habilidade Pulso Arcano até que ela seja finalmente executada
-
-<p>&nbsp;&nbsp;&nbsp;&nbsp;
 <p> &nbsp;&nbsp;&nbsp;&nbsp; O projeto se encontra disponível no github pages clicando <a href="https://leotinoco7.github.io/MOD2-Proj1/" target="_blank">AQUI</a><p/>
 
 ## ✒️ Autores
